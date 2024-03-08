@@ -8,3 +8,6 @@
 
 #3.hafta 
 kullanıcı .txt , .csv ve el ile veri ekleme yaparak ve algoritma seçerek sınıflandırma yapılıyor. Train edilen modeli kaydetme işlemi eklendi. 
+
+#Yapılacaklar
+dosya yüklendiğinde trained model  2) train_model.pkl de model ismi kullanıcıdan alınacak model sorgulama için ayrı bir pyhton kodu *yaratılan modelin testler yapılarak eksiğinin farkedilmesi
